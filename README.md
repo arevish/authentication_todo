@@ -1,0 +1,1 @@
+simple crud option django project with search functionality and user authentication function 
